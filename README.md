@@ -30,7 +30,7 @@
 1. Clone the repository and change directory.
 
 ```
-git clone 
+git clone git@github.com:danielpsnz/mixed_messages.git
 cd mixed-messages
 ```
 

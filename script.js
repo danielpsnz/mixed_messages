@@ -31,7 +31,7 @@ const buildPhrases = () => {
                 break;
         }
     }
-    return phrases.join(' ');
+    return phrases.join('\n');
 }
 
 

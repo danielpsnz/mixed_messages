@@ -15,7 +15,7 @@
     * Use command line
     * Develop locally on your computer
 3. **My Project**
-    * My [project]() aims to be a message generator for a personal portfolio.
+    * My [project](https://github.com/danielpsnz/mixed_messages/blob/main/script.js) aims to be a message generator for a personal portfolio.
 4. **Output Example**
     * I am an undergraduate.
     * I would like to write a book.
@@ -30,7 +30,7 @@
 1. Clone the repository and change directory.
 
 ```
-git clone 
+git clone git@github.com:danielpsnz/mixed_messages.git
 cd mixed-messages
 ```
 
